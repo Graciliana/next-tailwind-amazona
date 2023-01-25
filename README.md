@@ -13,6 +13,13 @@ description
    3. add main section
    4. add footer
    5. add tailwind classes
+6. List Products
+   1. add data.js
+   2. add images
+   3. render products
+
+
+
 ##paleta de cores
 .color1 { #027b7f };
 .color2 { #ffa588 };
