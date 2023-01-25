@@ -17,6 +17,14 @@ description
    1. add data.js
    2. add images
    3. render products
+7.  Create Products  Details
+    1.  create product page
+    2.  create 3 columns
+    3.  show image in first column
+    4.  show product info in second column
+    5.  show add to card action third column
+    6.  add styles
+    7.  
 
 
 
